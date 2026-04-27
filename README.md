@@ -26,13 +26,23 @@ Aplicación web para visualización de artículos tipo blog utilizando arquitect
 ```bash
 cd backend
 dotnet run
+```
 
 ### Frontend
 ```bash
 cd frontend
 npm install
 npm run dev
+```
 
-🔗 Endpoint
+---
+
+## 🔗 Endpoint
 
 http://localhost:5082/api/article
+
+---
+
+## 👨‍💻 Autor
+
+Javier Arias
