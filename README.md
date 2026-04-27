@@ -20,6 +20,7 @@ Arquitectura desacoplada:
 ## 🚀 Ejecución
 
 ### Backend
+```bash
 cd backend
 dotnet run
 
