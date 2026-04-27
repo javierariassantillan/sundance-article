@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Rve9SDXL/I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MyDELL\\Desktop\\sundance-article\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MyDELL\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-preview.3.25172.1\\microsoft.aspnetcore.openapi.10.0.0-preview.3.25172.1.nupkg.sha512",
+    "C:\\Users\\MyDELL\\.nuget\\packages\\microsoft.openapi\\2.0.0-preview.11\\microsoft.openapi.2.0.0-preview.11.nupkg.sha512"
+  ],
+  "logs": []
+}
